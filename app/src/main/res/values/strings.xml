@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Контроль расходов</string>
+    <string name="mainScreenButtonToGraph">Подробнее</string>
+    <string name="mainScreenButtonAddOperation">Добавить</string>
+    <string name="selector">Выбрать операцию</string>
+    <string name="changesFragmentAddButton">Добавить</string>
+    <string name="changesFragmentMoneyET">Введите сумму</string>
+</resources>
